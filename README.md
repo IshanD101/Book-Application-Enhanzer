@@ -13,6 +13,14 @@ This is a full-stack Book Management Web Application developed as part of an int
 - **ASP.NET Core** (For building RESTful APIs)
 - **C#** (Backend logic and API implementation)
 
+## 📂 Project Structure
+```
+📂 book-Application-Enhanzer/
+ ├── 📁 BookShelf-FE/   # Angular project files
+ ├── 📁 BookShelf/    # ASP.NET backend files
+ ├── README.md      # Project documentation
+```
+
 ## 📌 Features
 ✅ **View all books** in a tabular format  
 ✅ **Add a new book** with Title, Author, ISBN, and Publication Date  
@@ -21,10 +29,4 @@ This is a full-stack Book Management Web Application developed as part of an int
 ✅ **Responsive UI** using Tailwind CSS and PrimeNG components  
 ✅ **RESTful API** to handle CRUD operations  
 
-## 📂 Project Structure
-```
-📂 book-Application-Enhanzer/
- ├── 📁 BookShelf-FE/   # Angular project files
- ├── 📁 BookShelf/    # ASP.NET backend files
- ├── README.md      # Project documentation
-```
+
