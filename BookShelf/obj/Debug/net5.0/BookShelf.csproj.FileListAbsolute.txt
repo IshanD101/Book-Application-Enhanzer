@@ -1,0 +1,58 @@
+F:\C# Projects\BooksProject\BookShelf\bin\Debug\net5.0\appsettings.Development.json
+F:\C# Projects\BooksProject\BookShelf\bin\Debug\net5.0\appsettings.json
+F:\C# Projects\BooksProject\BookShelf\bin\Debug\net5.0\BookShelf.exe
+F:\C# Projects\BooksProject\BookShelf\bin\Debug\net5.0\BookShelf.deps.json
+F:\C# Projects\BooksProject\BookShelf\bin\Debug\net5.0\BookShelf.runtimeconfig.json
+F:\C# Projects\BooksProject\BookShelf\bin\Debug\net5.0\BookShelf.runtimeconfig.dev.json
+F:\C# Projects\BooksProject\BookShelf\bin\Debug\net5.0\BookShelf.dll
+F:\C# Projects\BooksProject\BookShelf\bin\Debug\net5.0\ref\BookShelf.dll
+F:\C# Projects\BooksProject\BookShelf\bin\Debug\net5.0\BookShelf.pdb
+F:\C# Projects\BooksProject\BookShelf\bin\Debug\net5.0\Microsoft.OpenApi.dll
+F:\C# Projects\BooksProject\BookShelf\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\C# Projects\BooksProject\BookShelf\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\C# Projects\BooksProject\BookShelf\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\C# Projects\BooksProject\BookShelf\obj\Debug\net5.0\BookShelf.csproj.AssemblyReference.cache
+F:\C# Projects\BooksProject\BookShelf\obj\Debug\net5.0\BookShelf.GeneratedMSBuildEditorConfig.editorconfig
+F:\C# Projects\BooksProject\BookShelf\obj\Debug\net5.0\BookShelf.AssemblyInfoInputs.cache
+F:\C# Projects\BooksProject\BookShelf\obj\Debug\net5.0\BookShelf.AssemblyInfo.cs
+F:\C# Projects\BooksProject\BookShelf\obj\Debug\net5.0\BookShelf.csproj.CoreCompileInputs.cache
+F:\C# Projects\BooksProject\BookShelf\obj\Debug\net5.0\BookShelf.MvcApplicationPartsAssemblyInfo.cs
+F:\C# Projects\BooksProject\BookShelf\obj\Debug\net5.0\BookShelf.MvcApplicationPartsAssemblyInfo.cache
+F:\C# Projects\BooksProject\BookShelf\obj\Debug\net5.0\staticwebassets\BookShelf.StaticWebAssets.Manifest.cache
+F:\C# Projects\BooksProject\BookShelf\obj\Debug\net5.0\staticwebassets\BookShelf.StaticWebAssets.xml
+F:\C# Projects\BooksProject\BookShelf\obj\Debug\net5.0\scopedcss\bundle\BookShelf.styles.css
+F:\C# Projects\BooksProject\BookShelf\obj\Debug\net5.0\BookShelf.RazorTargetAssemblyInfo.cache
+F:\C# Projects\BooksProject\BookShelf\obj\Debug\net5.0\BookShelf.csproj.CopyComplete
+F:\C# Projects\BooksProject\BookShelf\obj\Debug\net5.0\BookShelf.dll
+F:\C# Projects\BooksProject\BookShelf\obj\Debug\net5.0\ref\BookShelf.dll
+F:\C# Projects\BooksProject\BookShelf\obj\Debug\net5.0\BookShelf.pdb
+F:\C# Projects\BooksProject\BookShelf\obj\Debug\net5.0\BookShelf.genruntimeconfig.cache
+F:\C_Projects\BooksProject\BookShelf\bin\Debug\net5.0\appsettings.Development.json
+F:\C_Projects\BooksProject\BookShelf\bin\Debug\net5.0\appsettings.json
+F:\C_Projects\BooksProject\BookShelf\bin\Debug\net5.0\BookShelf.exe
+F:\C_Projects\BooksProject\BookShelf\bin\Debug\net5.0\BookShelf.deps.json
+F:\C_Projects\BooksProject\BookShelf\bin\Debug\net5.0\BookShelf.runtimeconfig.json
+F:\C_Projects\BooksProject\BookShelf\bin\Debug\net5.0\BookShelf.runtimeconfig.dev.json
+F:\C_Projects\BooksProject\BookShelf\bin\Debug\net5.0\BookShelf.dll
+F:\C_Projects\BooksProject\BookShelf\bin\Debug\net5.0\ref\BookShelf.dll
+F:\C_Projects\BooksProject\BookShelf\bin\Debug\net5.0\BookShelf.pdb
+F:\C_Projects\BooksProject\BookShelf\bin\Debug\net5.0\Microsoft.OpenApi.dll
+F:\C_Projects\BooksProject\BookShelf\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\C_Projects\BooksProject\BookShelf\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\C_Projects\BooksProject\BookShelf\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\C_Projects\BooksProject\BookShelf\obj\Debug\net5.0\BookShelf.csproj.AssemblyReference.cache
+F:\C_Projects\BooksProject\BookShelf\obj\Debug\net5.0\BookShelf.GeneratedMSBuildEditorConfig.editorconfig
+F:\C_Projects\BooksProject\BookShelf\obj\Debug\net5.0\BookShelf.AssemblyInfoInputs.cache
+F:\C_Projects\BooksProject\BookShelf\obj\Debug\net5.0\BookShelf.AssemblyInfo.cs
+F:\C_Projects\BooksProject\BookShelf\obj\Debug\net5.0\BookShelf.csproj.CoreCompileInputs.cache
+F:\C_Projects\BooksProject\BookShelf\obj\Debug\net5.0\BookShelf.MvcApplicationPartsAssemblyInfo.cs
+F:\C_Projects\BooksProject\BookShelf\obj\Debug\net5.0\BookShelf.MvcApplicationPartsAssemblyInfo.cache
+F:\C_Projects\BooksProject\BookShelf\obj\Debug\net5.0\staticwebassets\BookShelf.StaticWebAssets.Manifest.cache
+F:\C_Projects\BooksProject\BookShelf\obj\Debug\net5.0\staticwebassets\BookShelf.StaticWebAssets.xml
+F:\C_Projects\BooksProject\BookShelf\obj\Debug\net5.0\scopedcss\bundle\BookShelf.styles.css
+F:\C_Projects\BooksProject\BookShelf\obj\Debug\net5.0\BookShelf.RazorTargetAssemblyInfo.cache
+F:\C_Projects\BooksProject\BookShelf\obj\Debug\net5.0\BookShelf.csproj.CopyComplete
+F:\C_Projects\BooksProject\BookShelf\obj\Debug\net5.0\BookShelf.dll
+F:\C_Projects\BooksProject\BookShelf\obj\Debug\net5.0\ref\BookShelf.dll
+F:\C_Projects\BooksProject\BookShelf\obj\Debug\net5.0\BookShelf.pdb
+F:\C_Projects\BooksProject\BookShelf\obj\Debug\net5.0\BookShelf.genruntimeconfig.cache

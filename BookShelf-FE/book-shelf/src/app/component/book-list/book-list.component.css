@@ -1,0 +1,99 @@
+.container {
+  max-width: 100%;
+  padding: 1.5rem;
+  background-color: #2d3748;
+  border-radius: 8px;
+  border: 1px solid rgba(254, 215, 0, 0.3);
+}
+
+
+.add-book-button {
+  display: block;
+  margin: 1.5rem auto 0;
+  width: auto;
+  max-width: 250px;
+}
+
+
+.overflow-x-auto {
+  overflow-x: auto;
+}
+
+
+table {
+  width: 100%;
+  background-color: rgba(55, 65, 81, 0.5);
+  border-radius: 8px;
+}
+
+thead {
+  background-color: #1a202c;
+}
+
+th, td {
+  padding: 0.75rem;
+  text-align: left;
+}
+
+th {
+  color: #fbbf24;
+}
+
+td {
+  color: #e5e7eb;
+}
+
+tbody tr:hover {
+  background-color: rgba(75, 85, 99, 0.5);
+  transition: background-color 0.2s ease;
+}
+
+@media (max-width: 768px) {
+  table {
+    display: none;
+  }
+
+  .book-card {
+    background-color: rgba(55, 65, 81, 0.5);
+    border-radius: 8px;
+    margin-bottom: 1rem;
+    padding: 1rem;
+    display: flex;
+    flex-direction: column;
+    border: 1px solid rgba(254, 215, 0, 0.3);
+  }
+
+  .book-card h3 {
+    color: #fbbf24;
+    margin-bottom: 0.5rem;
+  }
+
+  .book-card p {
+    margin: 0.25rem 0;
+  }
+
+  .book-card .actions {
+    margin-top: 1rem;
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .book-card .actions button {
+    width: 48%;
+  }
+
+  .add-book-button {
+    display: block;
+    margin: 1.5rem auto 0;
+    max-width: 250px;
+  }
+}
+
+@media (max-width: 480px) {
+  .max-w-md {
+    width: 90%;
+  }
+  .p-button-warning {
+    width: 100%;
+  }
+}
