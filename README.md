@@ -24,7 +24,7 @@ This is a full-stack Book Management Web Application developed as part of an int
 ## 📂 Project Structure
 ```
 📂 book-Application-Enhanzer/
- ├── 📁 frontend/   # Angular project files
- ├── 📁 backend/    # ASP.NET backend files
+ ├── 📁 BookShelf-FE/   # Angular project files
+ ├── 📁 BookShelf/    # ASP.NET backend files
  ├── README.md      # Project documentation
 ```
