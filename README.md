@@ -1,6 +1,6 @@
 # 📚 Book Management Web Application
 
-This is a full-stack Book Management Web Application developed as part of an internship assignment at **Enhanzer**. The application allows users to **add, view, update, and delete** books using an Angular frontend and an ASP.NET backend.
+This is a full-stack Book Management Web Application. The application allows users to **add, view, update, and delete** books using an Angular frontend and an ASP.NET backend.
 
 ## 🚀 Technologies Used
 
